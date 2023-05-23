@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20230523 20:44:23.657" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\E1457992\.vscode\extensions\robocorp.robotframework-lsp-1.10.1\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Wait Until Keyword Succeeds" library="BuiltIn">
+<arg>15x</arg>
+<arg>2s</arg>
+<arg>Click Button</arg>
+<arg>order</arg>
+<doc>Runs the specified keyword and retries if it fails.</doc>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:26.590" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:26.590" endtime="20230523 20:44:26.590"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:28.608" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:28.608" endtime="20230523 20:44:28.608"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:30.620" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:30.619" endtime="20230523 20:44:30.620"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:32.639" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:32.639" endtime="20230523 20:44:32.639"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:34.651" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:34.651" endtime="20230523 20:44:34.651"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:36.657" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:36.657" endtime="20230523 20:44:36.657"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:38.668" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:38.668" endtime="20230523 20:44:38.668"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:40.679" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:40.678" endtime="20230523 20:44:40.679"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:42.691" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:42.691" endtime="20230523 20:44:42.691"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:44.705" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:44.705" endtime="20230523 20:44:44.705"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:46.715" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:46.714" endtime="20230523 20:44:46.715"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:48.720" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:48.719" endtime="20230523 20:44:48.720"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:50.737" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:50.737" endtime="20230523 20:44:50.737"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:52.751" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:52.751" endtime="20230523 20:44:52.751"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:44:54.761" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:54.761" endtime="20230523 20:44:54.761"/>
+</kw>
+<msg timestamp="20230523 20:44:54.762" level="FAIL">Keyword 'Click Button' failed after retrying 15 times. The last error was: No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:44:26.590" endtime="20230523 20:44:54.769"/>
+</kw>
+<kw name="Wait Until Keyword Succeeds" library="BuiltIn">
+<arg>15x</arg>
+<arg>1s</arg>
+<arg>Click Button</arg>
+<arg>order</arg>
+<doc>Runs the specified keyword and retries if it fails.</doc>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:45:55.368" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:55.368" endtime="20230523 20:45:55.368"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:45:56.379" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:56.379" endtime="20230523 20:45:56.379"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:45:57.394" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:57.394" endtime="20230523 20:45:57.394"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:45:58.400" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:58.400" endtime="20230523 20:45:58.400"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:45:59.407" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:59.406" endtime="20230523 20:45:59.407"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:00.419" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:00.419" endtime="20230523 20:46:00.419"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:01.422" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:01.422" endtime="20230523 20:46:01.422"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:02.439" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:02.439" endtime="20230523 20:46:02.439"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:03.440" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:03.440" endtime="20230523 20:46:03.440"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:04.458" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:04.458" endtime="20230523 20:46:04.459"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:05.472" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:05.472" endtime="20230523 20:46:05.472"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:06.486" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:06.486" endtime="20230523 20:46:06.486"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:07.505" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:07.504" endtime="20230523 20:46:07.505"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:08.515" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:08.515" endtime="20230523 20:46:08.515"/>
+</kw>
+<kw name="Click Button">
+<arg>order</arg>
+<msg timestamp="20230523 20:46:09.530" level="FAIL">No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:46:09.529" endtime="20230523 20:46:09.530"/>
+</kw>
+<msg timestamp="20230523 20:46:09.530" level="FAIL">Keyword 'Click Button' failed after retrying 15 times. The last error was: No keyword with name 'Click Button' found.</msg>
+<status status="FAIL" starttime="20230523 20:45:55.366" endtime="20230523 20:46:09.531"/>
+</kw>
+<kw name="Double Click Element" library="RPA.Browser.Selenium">
+<arg>order</arg>
+<doc>Double clicks the element identified by ``locator``.</doc>
+<msg timestamp="20230523 20:46:57.205" level="FAIL">No browser is open.</msg>
+<status status="FAIL" starttime="20230523 20:46:57.203" endtime="20230523 20:46:57.207"/>
+</kw>
+<kw name="Does Page Contain Button" library="RPA.Browser.Selenium">
+<arg>order</arg>
+<doc>Does page contain expected button</doc>
+<msg timestamp="20230523 20:47:17.349" level="FAIL">No browser is open.</msg>
+<status status="FAIL" starttime="20230523 20:47:17.348" endtime="20230523 20:47:17.352"/>
+</kw>
+<status status="PASS" starttime="20230523 20:44:23.697" endtime="20230523 20:49:32.490"/>
+</kw>
+<status status="PASS" starttime="20230523 20:44:23.697" endtime="20230523 20:49:32.491"/>
+</test>
+<status status="PASS" starttime="20230523 20:44:23.657" endtime="20230523 20:49:32.493"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
